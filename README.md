@@ -28,7 +28,14 @@ The first and one of the most serious problems that we face at the very beginnin
 The next equally important problem (not even a problem, but rather a possible justified risk) is damage or theft of technical equipment, including cameras and hardware. To avoid this, it is possible, by prior agreement with the administration, to fasten all equipment to the ceiling, making reliable enclosures. At the hardware level, it is possible to install sensors that notify in case of damage.
 
 ## Software and hardware
-In technical terms, we are planning to use single-board computers called Raspberry Pi 4. At the moment we have two such devices at our disposal. As cameras, it is planned to use ordinary web cameras or Raspberry Pi cameras (official cameras for the aforementioned computers, we have one such). Based on the fact that we have two devices, we have an idea to create a cluster (use one raspberry to recognize objects and control cameras, the other to serve mobile devices as a server) using modern control systems. 
+In technical terms, we are planning to use single-board computers called Raspberry Pi 4. At the moment we have two such devices at our disposal. As cameras, it is planned to use ordinary web cameras or Raspberry Pi cameras (official cameras for the aforementioned computers, we have one such). Based on the fact that we have two devices, we have an idea to create a cluster (use one raspberry to recognize objects and control cameras, the other to serve mobile devices as a server) using modern control systems.
+
+In the backend we are going to use Python programming language with Django framework. 
+
+As a framework for creating and operating the model, we will use Tensorflow (In particular, its simplified and optimized version for low-performance mobile devices called Tensorflow Lite). 
+
+A standard developer kit will be used to develop a mobile application (java/kotlin, android studio, etc) - *specific libraries and frameworks will appear here later...* 
+
 
 ## Release dates
 Prototype - end of semester
