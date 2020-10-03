@@ -36,6 +36,19 @@ As a framework for creating and operating the model, we will use Tensorflow (In 
 
 A standard developer kit will be used to develop a mobile application (java/kotlin, android studio, etc) - *specific libraries and frameworks will appear here later...* 
 
+## Current workflow
+Settlement of administrative issues - Alex U. and Valerie K. (a letter with a description of the project and requirements was handed over to the university administration, at the moment we are awaiting a response)
+
+Collecting data to train the model - Alex U.
+
+Mobile app prototyping - Dmitry Z. (adding a map of the university with the ability to change scale)
+
+Preparing tools and setting up an environment for backend development - Artur Y. and Vladislav N.
+
+Conducting a survey on the possible functionality of the application among university students - Alex U. and Valerie K.
+
+Analysis of the received survey results - Alex U.
+
 
 ## Release dates
 Prototype - end of semester
