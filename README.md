@@ -12,7 +12,7 @@ Personally, we see two solutions to this problem:
 Therefore, the idea of the project is to create an automated and remote control system of university recreational places. User interaction with the system is implied through a mobile application
 
 ## Team members
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander**, 18213 - deep learning 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander** (team representative), 18213 - deep learning 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yakovlev Arthur**, 18214 - mobile app / backend 
 
