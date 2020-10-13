@@ -16,7 +16,7 @@ Therefore, the idea of the project is to create an automated and remote control 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yakovlev Arthur**, 18214 - mobile app / backend 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Zaikov Dmitry**, 18214 - mobile app development
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Zaikov Dmitry**, 18214 - mobile app development, https://github.com/dzaikov/sandbags-app
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Krichevskaya Valerie**, 18213 - deep learning
 
