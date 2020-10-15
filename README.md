@@ -14,7 +14,7 @@ Therefore, the idea of the project is to create an automated and remote control 
 ## Team members
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander** (team representative), 18213 - deep learning, https://github.com/a1usha/bag-chair-model
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yakovlev Arthur**, 18214 - mobile app / backend 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yakovlev Arthur**, 18214 - mobile app / backend, https://github.com/ayakovlev18214/nsu_project_v2_backend
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Zaikov Dmitry**, 18214 - mobile app development, https://github.com/dzaikov/sandbags-app
 
