@@ -11,16 +11,21 @@ Personally, we see two solutions to this problem:
 
 Therefore, the idea of the project is to create an automated and remote control system of university recreational places. User interaction with the system is implied through a mobile application
 
+## Sub-parts repositories
+[Deep learning model](https://github.com/a1usha/bag-chair-model)
+
+[Backend](https://github.com/ayakovlev18214/nsu_project_v2_backend)
+
+[Mobile app](https://github.com/dzaikov/sandbags-app)
+
 ## Team members
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander** (team representative), 18213 - deep learning, https://github.com/a1usha/bag-chair-model
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander** (team representative), 18213 - deep learning
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yakovlev Arthur**, 18214 - mobile app / backend, https://github.com/ayakovlev18214/nsu_project_v2_backend
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Yakovlev Arthur**, 18214 - mobile app / backend
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Zaikov Dmitry**, 18214 - mobile app development, https://github.com/dzaikov/sandbags-app
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Zaikov Dmitry**, 18214 - mobile app development
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Krichevskaya Valerie**, 18213 - deep learning
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Nikiforov Vladislav**, 18213 - backend
 
 ## Project risks
 The first and one of the most serious problems that we face at the very beginning is the administrative one. We need to install additional cameras above the recreation areas or gain access to existing ones. To do this, we plan to contact the dean's office of our faculty, or with the deputy head of the department of the property complex of the NSU, responsible for video surveillance at the university. The problem is that we may not be approved of the planned actions. The solution is to search for alternative areas outside NSU, similar in functionality and external qualities to university leisure areas. 
@@ -36,23 +41,7 @@ As a framework for creating and operating the model, we will use Tensorflow (In 
 
 A standard developer kit will be used to develop a mobile application (java/kotlin, android studio, etc) - *specific libraries and frameworks will appear here later...* 
 
-## Current workflow
-Settlement of administrative issues - Alex U. and Valerie K. (a letter with a description of the project and requirements was handed over to the university administration, at the moment we are awaiting a response)
-
-Collecting data to train the model - Alex U.
-
-Mobile app prototyping - Dmitry Z. (adding a map of the university with the ability to change scale)
-
-Preparing tools and setting up an environment for backend development - Artur Y. and Vladislav N.
-
-Conducting a survey on the possible functionality of the application among university students - Alex U. and Valerie K.
-
-Analysis of the received survey results - Alex U.
-
-
 ## Release dates
-Prototype - end of semester
+Prototype - end of semester (~20.12.2020)
 
 The first release - middle of the second semester
-
-
