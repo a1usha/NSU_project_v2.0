@@ -11,7 +11,7 @@ Personally, we see two solutions to this problem:
 
 Therefore, the idea of the project is to create an automated and remote control system of university recreational places. User interaction with the system is implied through a mobile application
 
-## Sub-parts repositories
+## Submodules
 [Deep learning model](https://github.com/a1usha/bag-chair-model)
 
 [Backend](https://github.com/ayakovlev18214/nsu_project_v2_backend)
