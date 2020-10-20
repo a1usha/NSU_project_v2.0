@@ -1,8 +1,7 @@
 ### This file contains information about implementation details of our project (Sub modules, Use-cases, etc.)
 ---
 
-Mobile app
----
+### Mobile app
 
 Developer: Dmitry Zaikov
 
@@ -38,8 +37,8 @@ Default android application, it displays number of free sandbags in lounges. It 
 
 ---
 
-Backend
----
+### Backend
+
 Developer: Yakovlev Arthur
 
 The server is the connecting link that keeps connections with users, answering their requests, and also periodically asks the ML model about the current state of the sandbags.
@@ -67,10 +66,8 @@ The server is the connecting link that keeps connections with users, answering t
 
 ---
 
-ML model
----
+### ML model
+
 Developers: Ushaev Aleksandr, Krichevskaya Valerie
 
 One of the key elements of our system. Responsible for detection of free and occupied bagchairs in an image or video. The model will be biult using [transfer learning method](https://en.wikipedia.org/wiki/Transfer_learning#:~:text=Transfer%20learning%20(TL)%20is%20a,when%20trying%20to%20recognize%20trucks.) - use already trained (mostly called pre-trained) convolution network as the starting point for their own model (use pre-trained weights as the initial weights for own model). More info in our [sub-repository](https://github.com/a1usha/bag-chair-model)
-
-
