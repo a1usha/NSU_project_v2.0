@@ -18,6 +18,8 @@ Therefore, the idea of the project is to create an automated and remote control 
 
 [Mobile app](https://github.com/dzaikov/sandbags-app)
 
+[Occupancy prediction model](https://github.com/Krichevskaya/Occupancy_Prediction_Model)
+
 ## Team members
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander** (team representative), 18213 - deep learning
 
