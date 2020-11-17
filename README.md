@@ -20,6 +20,8 @@ Therefore, the idea of the project is to create an automated and remote control 
 
 [Occupancy prediction model](https://github.com/Krichevskaya/Occupancy_Prediction_Model)
 
+[Camera agent](https://github.com/a1usha/camera-agent)
+
 ## Team members
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ushaev Alexander** (team representative), 18213 - deep learning
 
